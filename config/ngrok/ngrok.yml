@@ -1,0 +1,6 @@
+version: 2
+authtoken: ${NGROK_AUTHTOKEN}
+tunnels:
+  n8n:
+    proto: http
+    addr: n8n:5678
