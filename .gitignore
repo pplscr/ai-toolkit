@@ -1,0 +1,12 @@
+# Environment variables
+.env
+
+# Data directories
+data/
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
